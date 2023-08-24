@@ -69,7 +69,7 @@ export default function Home() {
         },
         payload: {
           tokenAddress: usdcAddress,
-          inputPos: 1,
+          inputPos: 0,
         },
         estimatedGas: '250000',
       },
