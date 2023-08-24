@@ -12,10 +12,10 @@
     ethers "^5.7.1"
     release-it "^15.5.0"
 
-"@0xsquid/staking-widget@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@0xsquid/staking-widget/-/staking-widget-1.0.4.tgz#d3877b80f92ad959f0e698a803bb971ec11bea9e"
-  integrity sha512-Hi6dtlSJcALd4glqe2VpqHUHsG5VAyE4zcpjdhxHlE61B9d6QfiU/8FTCBFynMN9plCao3dDx5bGCtYgl6F0Lg==
+"@0xsquid/staking-widget@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@0xsquid/staking-widget/-/staking-widget-1.0.5.tgz#c8d783004435935094c2dd25fb9c472f2c76b7b5"
+  integrity sha512-J8NyPqNucr0lLz2j5unvba6olNWdijj3ZQrkmvJ1aIpSYHOnKVxM93ZIf8Ah13uUmf/5eOZzWOIKu7NoDx4OcQ==
   dependencies:
     "@0xsquid/sdk" "1.7.0"
     "@cosmjs/stargate" "^0.29.2"
